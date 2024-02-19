@@ -8,7 +8,7 @@ Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dar
 
 Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/enrico-juan-carlos-204484268))ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/enrico-juan-carlos-204484268)ku ya.
 
 <!--
 **Ricoviel/Ricoviel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
