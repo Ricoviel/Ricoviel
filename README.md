@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Halo semua! 
+# Halo semua! (❁´◡`❁)
 
 Perkenalkan nama saya **Enrico Juan Carlos**.<br>
 
