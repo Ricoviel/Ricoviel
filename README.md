@@ -2,11 +2,11 @@
 
 Perkenalkan nama saya **Enrico Juan Carlos**.<br>
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
+Saya seorang **Mahasiswa** di [Universitas Pancasila](https://univpancasila.ac.id/).<br>
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+Saya memiliki beberapa project seperti [PAWPAW Petshop](https://ricoviel.github.io/PawPaw-Petshop/), [Rental Mobil](https://carrentineve.000webhostapp.com/), [Poster](https://ricoviel.github.io/Poster/)
 
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
+Saya juga sempat mempelajari beberapa kursus excel dari tahun 2023-2024
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/enrico-juan-carlos-204484268)ku ya.
 
